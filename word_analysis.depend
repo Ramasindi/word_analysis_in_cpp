@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1647981880 source:c:\users\thalukanyo\workspace\c++_projects\word_analysis\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+
